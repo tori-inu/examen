@@ -257,7 +257,7 @@ input[type="submit"]:hover {
         overflow: hidden;  
         padding-top: 0%;
         animation: fondoBanner 10s ease-in-out infinite;
-        height: 900px;
+        height: 1100px;
     
         a {
             font-size: 32px;
@@ -321,7 +321,7 @@ input[type="submit"]:hover {
         padding: 35px;
         top: 0%;
         width: 100%;
-        height: 900px;
+        height: 1100px;
         gap: 35px;
     
         background-image: linear-gradient(
