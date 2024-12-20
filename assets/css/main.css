@@ -245,7 +245,7 @@ input[type="submit"]{
 }
 
 input[type="submit"]:hover {
-    background-color: red;
+    background-color: var(--color-primario-oscuro);
 }
 
 @media screen and (min-width: 1080px) {
